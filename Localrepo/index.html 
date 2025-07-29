@@ -1,2 +1,6 @@
 <p>This is a new repository.</p>
+<<<<<<< HEAD
 <p>Added a new feature.</p>
+=======
+<p>Add a new feature.(button)</p> 
+>>>>>>> main
